@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P362Navidad {
+public class p362 {
 
 	public static void main(String[] args) {
 		
